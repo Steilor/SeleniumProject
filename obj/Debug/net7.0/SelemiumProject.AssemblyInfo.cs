@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SelemiumProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee9be00fdf858754fc5ee1f30cba8117ade63c5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3cf756f19171ebb545dc833fb70436ac77d9f5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SelemiumProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SelemiumProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
